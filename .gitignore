@@ -1,2 +1,4 @@
 Sid/bin/
 Sid/obj/
+*.user
+*.suo
