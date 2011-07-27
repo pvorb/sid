@@ -1,0 +1,5 @@
+**Sid** is an offline tool for managing _static websites_.
+
+It does not do anything yet.
+
+Sid is _very_ short for **Si**te e**d**iting tool. ;-)
